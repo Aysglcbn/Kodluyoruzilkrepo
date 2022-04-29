@@ -16,3 +16,6 @@ Pull requestler kabul edilir. Büyük değişikler için, lütfen önce neyi de�
 
 # License
 [MİT](https://github.com/Aysglcbn/Kodluyoruzilkrepo/blob/cb83d4a16fe98758d80cd5bcc9ea91c76f401093/LICENSE)
+
+# Link
+[Link](www.patika.dev)
